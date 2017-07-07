@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\importantFiles\workspace\Nexlogitech2D\Android\Nexlogitech2D\libs\unity-classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6831a07fe24f06b4f2889e6d31760238eb59f861">
+        <dex dex="E:\importantFiles\workspace\Nexlogitech2D\Android\Nexlogitech2D\build\intermediates\pre-dexed\debug\unity-classes_d1bfbed8df60f70a27c10022e795bb59c3cf2737.jar" />
+    </item>
+
+</items>
